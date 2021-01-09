@@ -1,0 +1,28 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\begin{document}
+\begin{center}
+    \begin{tabular}{||c c c c c c c||}
+    \hline
+    time(t) & A & B & C & B' & X & Z\\[3ex]
+    \hline\hline
+    \textless0 & 0 & 1 & 0 & 0 & 0 & 0\\
+    \hline
+    0 & 1 & 0 & 1 & 0 & 0 & 0\\
+    \hline
+    20 & 1 & 0 & 1 & 1 & 0 & 1\\
+    \hline
+    40 & 1 & 0 & 1 & 1 & 1 & 1\\
+    \hline
+    60 & 1 & 0 & 1 & 1 & 1 & 0\\
+    \hline
+    80 & 1 & 0 & 1 & 1 & 1 & 0\\
+    \hline
+    \end{tabular}
+    
+    
+\end{center}
+
+\end{document}
+
